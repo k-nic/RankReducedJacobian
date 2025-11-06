@@ -36,5 +36,5 @@ Example training notebook for MNIST dataset is provided.
 
 ## License
 
-This code is released for **research and educational purposes only**.
+This code is released for research and educational purposes only.
 Please cite the above paper if you use or modify this repository in your work.
