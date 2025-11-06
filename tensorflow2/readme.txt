@@ -3,7 +3,7 @@
 This repository contains the TensorFlow 2 implementation of the alternating training algorithm for autoencoders with low-rank Jacobian regularization, as proposed and analyzed in the paper:
 
 Rustem Takhanov, Y. Sultan Abylkairov, Maxat Tezekbayev, "Autoencoders for a manifold learning problem with a jacobian rank constraint", Pattern Recognition, Volume 143, 2023, 109777.
-[https://doi.org/10.1016/j.patcog.2023.109777](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004752)
+https://doi.org/10.1016/j.patcog.2023.109777
 
 ---
 
