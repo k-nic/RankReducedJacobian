@@ -13,8 +13,8 @@ If you use this code in your research or publications, please cite the following
 
 ```bibtex
 @article{takhanov2024learning,
-  title={Learning low-rank structure of Jacobians in neural networks},
-  author={Takhanov, Rustem},
+  title={Autoencoders for a manifold learning problem with a jacobian rank constraint},
+  author={Rustem Takhanov, Y. Sultan Abylkairov, Maxat Tezekbayev},
   journal={Pattern Recognition},
   volume={143},
   year={2023},
